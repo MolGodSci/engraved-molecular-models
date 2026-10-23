@@ -1,0 +1,10 @@
+{
+  "cas": "67-66-3",
+  "name": "Chloroform",
+  "formula": "CHCl3",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23343830",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3AChloroform-3D-molecular-model-engraved-CAS-67-66-3.stl",
+  "pubchem_cid": 6212,
+  "sha256": "facc9a28552c5e5010dffc4ed4a3128c756c8d70e2ff388e223461b329c2a9b4",
+  "license": "CC-BY-SA-4.0"
+}

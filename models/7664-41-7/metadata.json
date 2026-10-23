@@ -1,0 +1,10 @@
+{
+  "cas": "7664-41-7",
+  "name": "Ammonia",
+  "formula": "H3N",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23343905",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3AAmmonia-3D-molecular-model-engraved-CAS-7664-41-7.stl",
+  "pubchem_cid": 222,
+  "sha256": "6fb69c04c68ceec4d05fda851f476208a570a93becc1fc20e4f71b548db5eb65",
+  "license": "CC-BY-SA-4.0"
+}

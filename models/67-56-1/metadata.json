@@ -1,0 +1,10 @@
+{
+  "cas": "67-56-1",
+  "name": "Methanol",
+  "formula": "CH4O",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23317296",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3AMethanol-3D-molecular-model-engraved-CAS-67-56-1.stl",
+  "pubchem_cid": 887,
+  "sha256": "21443148e485435c26734f428c6b926297494d901638f26b4c818e54558e5632",
+  "license": "CC-BY-SA-4.0"
+}

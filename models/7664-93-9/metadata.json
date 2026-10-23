@@ -1,0 +1,10 @@
+{
+  "cas": "7664-93-9",
+  "name": "Sulfuric Acid",
+  "formula": "H2O4S",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23454142",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3ASulfuric_Acid-3D-molecular-model-engraved-CAS-7664-93-9.stl",
+  "pubchem_cid": 1118,
+  "sha256": "a05d6ece0a8123b33a997c90ca78d79d64a04390f8328afb947a7c807a43bd0f",
+  "license": "CC-BY-SA-4.0"
+}
