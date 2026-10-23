@@ -1,0 +1,10 @@
+{
+  "cas": "108-88-3",
+  "name": "Toluene",
+  "formula": "C7H8",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23277409",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3AToluene-3D-molecular-model-engraved-CAS-108-88-3.stl",
+  "pubchem_cid": 1140,
+  "sha256": "d59b66c141511ad93ebf0d4e93e377d1c487b79c86a8f25d4a55fa609d2859b5",
+  "license": "CC-BY-SA-4.0"
+}

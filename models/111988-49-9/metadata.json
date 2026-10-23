@@ -1,0 +1,10 @@
+{
+  "cas": "111988-49-9",
+  "name": "Thiacloprid",
+  "formula": "C10H9ClN4S",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23283076",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3A%283-%28%286-Chloropyridin-3-yl%29methyl%29-1%2C3-thiazolidin-2-ylidene%29cyanamide-3D-molecular-model-engraved-CAS-111988-49-9.stl",
+  "pubchem_cid": 115224,
+  "sha256": "13067f3a719587333c1391350e55725b7392e6d00c88fcc19955ca5966dd0a2b",
+  "license": "CC-BY-SA-4.0"
+}
