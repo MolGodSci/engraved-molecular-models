@@ -1,0 +1,10 @@
+{
+  "cas": "110-82-7",
+  "name": "Cyclohexane",
+  "formula": "C6H12",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23277175",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3ACyclohexane-3D-molecular-model-engraved-CAS-110-82-7.stl",
+  "pubchem_cid": 8078,
+  "sha256": "a830711c6916547dc6daf03de16d30bcc54a1ae42d9817de566ed7f20f3383e4",
+  "license": "CC-BY-SA-4.0"
+}

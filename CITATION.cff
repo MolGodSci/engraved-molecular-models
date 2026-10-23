@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these models, please cite the Zenodo concept DOI of each molecule (listed in README.md and metadata.json)."
+type: dataset
+title: "Engraved molecular models"
+abstract: "3D-printable ball-and-stick molecule models (STL) with the element symbol engraved on every atom, generated from PubChem computed 3D conformers."
+authors:
+  - name: "MolGod.org"
+    website: "https://molgod.org"
+license: CC-BY-SA-4.0
+url: "https://molgod.org/engraved-molecular-models/"
+repository: "https://github.com/MolGodSci/engraved-molecular-models"
+keywords:
+  - chemistry
+  - 3d-printing
+  - stl
+  - molecular-models
+  - education
+  - open-educational-resources

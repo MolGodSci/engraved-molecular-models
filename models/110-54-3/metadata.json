@@ -1,0 +1,10 @@
+{
+  "cas": "110-54-3",
+  "name": "Hexane",
+  "formula": "C6H14",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23277584",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3AHexane-3D-molecular-model-engraved-CAS-110-54-3.stl",
+  "pubchem_cid": 8058,
+  "sha256": "aeb07a9fe0a04dca91357f12f64d33fe4c256827ecc6b6b430bc9dcdba0a688d",
+  "license": "CC-BY-SA-4.0"
+}

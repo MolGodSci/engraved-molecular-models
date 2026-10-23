@@ -1,0 +1,10 @@
+{
+  "cas": "109-66-0",
+  "name": "Pentane",
+  "formula": "C5H12",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23277165",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3APentane-3D-molecular-model-engraved-CAS-109-66-0.stl",
+  "pubchem_cid": 8003,
+  "sha256": "2cdeb8a5ba852d59331749f0c7a614c2e54490a884622d56bb9298535f6e0abc",
+  "license": "CC-BY-SA-4.0"
+}

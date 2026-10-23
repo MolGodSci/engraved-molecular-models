@@ -1,0 +1,10 @@
+{
+  "cas": "2216-51-5",
+  "name": "L-menthol",
+  "formula": "C10H20O",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23274432",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3AL-menthol-3D-molecular-model-engraved-CAS-2216-51-5.stl",
+  "pubchem_cid": 16666,
+  "sha256": "cd008dfa58058aaef8069ef45ca3878a6e85ddcdd0e10002c4b621d810bf0ea9",
+  "license": "CC-BY-SA-4.0"
+}
