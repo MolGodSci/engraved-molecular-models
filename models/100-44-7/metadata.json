@@ -1,0 +1,10 @@
+{
+  "cas": "100-44-7",
+  "name": "Benzyl Chloride",
+  "formula": "C7H7Cl",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23277452",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3ABenzyl_Chloride-3D-molecular-model-engraved-CAS-100-44-7.stl",
+  "pubchem_cid": 7503,
+  "sha256": "153dd602cde8e17d2a1faac7c5c7a499753d4465803a755f8ec3351692ee616d",
+  "license": "CC-BY-SA-4.0"
+}

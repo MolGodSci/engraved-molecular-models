@@ -1,0 +1,10 @@
+{
+  "cas": "100-41-4",
+  "name": "Ethylbenzene",
+  "formula": "C8H10",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23437924",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3AEthylbenzene-3D-molecular-model-engraved-CAS-100-41-4.stl",
+  "pubchem_cid": 7500,
+  "sha256": "17b45c7fc46c0d23f9a0d2f86088998a6c950ca8b1d5ce3110abe4f94371a438",
+  "license": "CC-BY-SA-4.0"
+}

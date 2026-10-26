@@ -1,0 +1,10 @@
+{
+  "cas": "81-81-2",
+  "name": "Warfarin",
+  "formula": "C19H16O4",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23437835",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3AWarfarin-3D-molecular-model-engraved-CAS-81-81-2.stl",
+  "pubchem_cid": 54678486,
+  "sha256": "cb86b930e8241140774d1043b12cc331d9aea25415b9352d35a7f4688c94e05c",
+  "license": "CC-BY-SA-4.0"
+}

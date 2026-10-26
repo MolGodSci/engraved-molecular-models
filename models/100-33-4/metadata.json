@@ -1,0 +1,10 @@
+{
+  "cas": "100-33-4",
+  "name": "Pentamidine",
+  "formula": "C19H24N4O2",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23437884",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3APentamidine-3D-molecular-model-engraved-CAS-100-33-4.stl",
+  "pubchem_cid": 4735,
+  "sha256": "6703f3ef9ec3c3a187a3220a92ea2c88910818b61a38dea4ee888f633846c6d7",
+  "license": "CC-BY-SA-4.0"
+}
