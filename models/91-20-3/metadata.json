@@ -1,0 +1,10 @@
+{
+  "cas": "91-20-3",
+  "name": "Naphthalene",
+  "formula": "C10H8",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23277376",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3ANaphthalene-3D-molecular-model-engraved-CAS-91-20-3.stl",
+  "pubchem_cid": 931,
+  "sha256": "ce2fb0647848ac42b3394fa8a22e7335f8d0b66d9dc01e6f2707e8edacb3489c",
+  "license": "CC-BY-SA-4.0"
+}

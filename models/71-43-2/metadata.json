@@ -1,0 +1,10 @@
+{
+  "cas": "71-43-2",
+  "name": "Benzene",
+  "formula": "C6H6",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23277362",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3ABenzene-3D-molecular-model-engraved-CAS-71-43-2.stl",
+  "pubchem_cid": 241,
+  "sha256": "31a09153b08e9b21da73cd7ad422af15409b30625c5446f91a64b614b32f51be",
+  "license": "CC-BY-SA-4.0"
+}

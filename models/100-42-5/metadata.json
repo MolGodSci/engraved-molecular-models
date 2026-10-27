@@ -1,0 +1,10 @@
+{
+  "cas": "100-42-5",
+  "name": "Styrene",
+  "formula": "C8H8",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23447233",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3AStyrene-3D-molecular-model-engraved-CAS-100-42-5.stl",
+  "pubchem_cid": 7501,
+  "sha256": "25f1baa0db06b243791d52b2d714b5ba89b54e73fcf021346aeb0b49b8e9603f",
+  "license": "CC-BY-SA-4.0"
+}

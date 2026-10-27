@@ -1,0 +1,10 @@
+{
+  "cas": "100-52-7",
+  "name": "Benzaldehyde",
+  "formula": "C7H6O",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23476655",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3ABenzaldehyde-3D-molecular-model-engraved-CAS-100-52-7.stl",
+  "pubchem_cid": 240,
+  "sha256": "90024292cb3a35ff5cd802fa317ebb1863a33f9637127913c77a5d14cce8662a",
+  "license": "CC-BY-SA-4.0"
+}
