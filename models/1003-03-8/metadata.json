@@ -1,0 +1,10 @@
+{
+  "cas": "1003-03-8",
+  "name": "Cyclopentylamine",
+  "formula": "C5H11N",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23517234",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3ACyclopentylamine-3D-molecular-model-engraved-CAS-1003-03-8.stl",
+  "pubchem_cid": 2906,
+  "sha256": "d83c7315606a247818822e23d461174e10ac1884a462927813522404a09e1f5e",
+  "license": "CC-BY-SA-4.0"
+}
