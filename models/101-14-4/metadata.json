@@ -1,0 +1,10 @@
+{
+  "cas": "101-14-4",
+  "name": "3,3'-Dichloro-4,4'-Diaminodiphenylmethane",
+  "formula": "C13H12Cl2N2",
+  "zenodo_concept_doi": "https://doi.org/10.5281/zenodo.23553027",
+  "commons_url": "https://commons.wikimedia.org/wiki/File%3A3%2C3%27-Dichloro-4%2C4%27-Diaminodiphenylmethane-3D-molecular-model-engraved-CAS-101-14-4.stl",
+  "pubchem_cid": 7543,
+  "sha256": "4fdd82cfa1d39d7b9455ee61d4b74d46a07adf1a64c93066c2a278c8cc25773a",
+  "license": "CC-BY-SA-4.0"
+}
